@@ -1,0 +1,21 @@
+{
+    "SkyBot": {
+        "status": true,
+        "versionNew": "1.0.0",
+        "versionOld": "1.0.0",
+        "description": "",
+        "url": "https://www.github.com",
+        "icon": "https://www.github.com/favicon.ico",
+        "update": {
+            "status": false,
+            "linkUpdate": "https://www.github.com",
+            "fileZip": "SkyBot.zip",
+            "openFileNames": {
+                "windows": "SkyBot.exe",
+                "mac": "SkyBot-macos",
+                "linux": "SkyBot-linux"
+            },
+            "content": "update..."
+        }
+    }
+}
