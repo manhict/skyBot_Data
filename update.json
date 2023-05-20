@@ -1,7 +1,7 @@
 {
     "SkyBot": {
         "status": true,
-        "versionNew": "1.0.0",
+        "versionNew": "1.0.1",
         "versionOld": "1.0.0",
         "description": "",
         "url": "https://www.github.com",
@@ -15,7 +15,9 @@
                 "mac": "SkyBot-macos",
                 "linux": "SkyBot-linux"
             },
-            "content": "Nếu phát hiện mod sửa đổi source khi chưa xin phép, block người dùng đó khỏi cộng đồng SkyBot"
+            "content": [
+                "Nếu phát hiện mod sửa đổi source khi chưa xin phép, block người dùng đó khỏi cộng đồng SkyBot"
+            ]
         }
     }
 }
