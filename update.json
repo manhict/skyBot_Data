@@ -15,7 +15,7 @@
                 "mac": "SkyBot-macos",
                 "linux": "SkyBot-linux"
             },
-            "content": "update..."
+            "content": "Nếu phát hiện mod sửa đổi source khi chưa xin phép, block người dùng đó khỏi cộng đồng SkyBot"
         }
     }
 }
