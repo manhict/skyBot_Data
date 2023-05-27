@@ -16,7 +16,7 @@
                 "linux": "SkyBot-linux"
             },
             "content": [
-                "Phát hiện mod sửa đổi source khi chưa xin phép, block người dùng đó khỏi cộng đồng SkyBot"
+                "update v1.0.3"
             ]
         }
     }
